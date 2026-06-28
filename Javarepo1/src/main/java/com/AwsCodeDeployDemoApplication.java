@@ -8,6 +8,7 @@ public class AwsCodeDeployDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AwsCodeDeployDemoApplication.class, args);
+		System.out.println("New Changes");
 	}
 
 }
